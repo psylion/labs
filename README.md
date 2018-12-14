@@ -25,3 +25,6 @@ Custom fields: https://oliviercc.github.io/sp-client-custom-fields/
 
 Navigate in graph
 Developer.microsoft.com/en-us/graph/graph-explorer
+
+### lINK TO sKILLPIPE 
+https://skillpipe.com/#/bookshelf/books
