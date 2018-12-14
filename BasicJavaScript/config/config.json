@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "basic-script-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/basicScript/BasicScriptWebPart.js",
+          "manifest": "./src/webparts/basicScript/BasicScriptWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "BasicScriptWebPartStrings": "lib/webparts/basicScript/loc/{locale}.js"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "type-script-lab-client-side-solution",
+    "id": "57010a3b-3246-44f3-8458-240d7ccc5194",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/type-script-lab.sppkg"
+  }
+}

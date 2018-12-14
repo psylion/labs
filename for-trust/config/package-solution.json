@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "for-trust-client-side-solution",
+    "id": "86043a9b-8dfe-46eb-bc68-bd9c2d8cbe57",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/for-trust.sppkg"
+  }
+}

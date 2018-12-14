@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "basic-java-script-client-side-solution",
+    "id": "bc6d8c5e-317e-425c-a3ed-d4b592a4cf3d",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/basic-java-script.sppkg"
+  }
+}

@@ -1,0 +1,4 @@
+
+function any(arr, tFunc){
+
+}
