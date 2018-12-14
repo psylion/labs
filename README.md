@@ -22,3 +22,6 @@ Developer Documentation
 https://rencore.com/sharepoint-framework/script-check/
 NVM Windows: https://github.com/coreybutler/nvm-windows
 Custom fields: https://oliviercc.github.io/sp-client-custom-fields/
+
+Navigate in graph
+Developer.microsoft.com/en-us/graph/graph-explorer
