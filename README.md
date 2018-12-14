@@ -4,7 +4,9 @@ Labs from U2U
 At the end of the training, I create this project to save all the labs executed during the training.
 
 Links provided by U2U
+
 Links
+
 https://github.com/SharePoint/sp-dev-fx-property-controls
 Custom property controls for SharePoint Framework
 
